@@ -1,0 +1,17 @@
+<html lang="ar">
+        <head>
+                <title>Heading,Paragraph and link session</title>  
+        </head>
+        <body>
+                <h1>welcome to HTML tutorials for beginners.</h1>
+                <h2>welcome to HTML tutorials for beginners.</h2>
+                <h3>welcome to html tutorials for beginners.</h3>
+                <h4>welcome to html tutorials for beginners.</h4>
+                <h5>welcome to html tutorials for beginners.</h5>
+                <h6>welcome to html tutorials for beginners.</h6>
+                 
+                <p>this is a paragraph.</p>
+                
+                <a href="https://www.google.com">Google</a>
+        </body>
+</html>
